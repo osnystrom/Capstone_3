@@ -1,7 +1,7 @@
 # Capstone_3
 Flight Data Analysis
 
-For a basic summary of the conclusions of this project, refer to the Capstone 3 Documentation File
+This project uses the Covid dataset from the OpenSky network's public dataset to create visuals showing what imapct the covid-19 pandemic has had on air travel. For a basic summary of the conclusions of this project, refer to the Capstone 3 Documentation File
 
 If interested in reviewing the actual code, preprocessing work (cleaning data and uploading to Snowflake) is done in Flight Data Processing. Analytical work is done in Flight_analytics.
 
